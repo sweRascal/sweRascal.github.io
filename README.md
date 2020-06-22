@@ -1,2 +1,5 @@
 ## About
-Personal page of André Arvidsson, some of my amateur code is published on my github page.
+Nothing to see here!  
+  
+## Examples
+[Examples](Examples.md)
